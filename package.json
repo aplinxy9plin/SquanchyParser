@@ -1,0 +1,16 @@
+{
+  "name": "SquanchyMusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aplinxy9plin/SquanchyMusic.git",
+  "author": "AplinXy9plin <evilberry@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
